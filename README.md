@@ -4,7 +4,9 @@
 
 ## В начале
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Собрать схему приведенную ниже.
+
+![Схема подключения](https://github.com/drenkas/Project-Blanco-arduino-sim800l-DHT11-node.js/raw/master/image/image.png)
 
 ### Prerequisites
 
