@@ -1,0 +1,15 @@
+.footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
+#temp {
+	background-color: #ff6600;
+}
+
+
+#humidade {
+	background-color: #0800ff;
+}
